@@ -56,7 +56,7 @@ refdes=C308
 T 50800 42300 5 10 1 1 270 0 1
 footprint=0402
 T 51100 42200 5 10 1 1 270 0 1
-value=100p
+value=330p
 }
 C 49700 43100 1 180 0 gnd-1.sym
 C 51600 42700 1 270 0 resistor-1.sym
@@ -66,7 +66,7 @@ device=RESISTOR
 T 51500 42000 5 10 1 1 270 0 1
 refdes=R315
 T 51500 42600 5 10 1 1 270 0 1
-value=2.4k
+value=2.2k
 T 51800 42500 5 10 1 1 270 0 1
 footprint=0402
 }
@@ -128,7 +128,7 @@ device=RESISTOR
 T 47800 39200 5 10 1 1 270 0 1
 refdes=R314
 T 47800 39800 5 10 1 1 270 0 1
-value=100
+value=75
 T 48100 39700 5 10 1 1 270 0 1
 footprint=0402
 }
@@ -251,7 +251,7 @@ refdes=C312
 T 55900 40300 5 10 1 1 270 0 1
 footprint=0603
 T 56200 40200 5 10 1 1 270 0 1
-value=100n
+value=220n
 }
 C 55900 38600 1 270 0 capacitor-1.sym
 {
@@ -264,7 +264,7 @@ refdes=C316
 T 55900 38100 5 10 1 1 270 0 1
 footprint=0603
 T 56200 38000 5 10 1 1 270 0 1
-value=100n
+value=220n
 }
 N 56100 39500 56100 39900 4
 C 56200 41100 1 180 0 gnd-1.sym
@@ -284,7 +284,7 @@ device=RESISTOR
 T 65800 37900 5 10 1 1 270 0 1
 refdes=R328
 T 65800 38500 5 10 1 1 270 0 1
-value=1k
+value=470
 T 66100 38300 5 10 1 1 270 0 1
 footprint=0402
 }
@@ -301,9 +301,9 @@ symversion=0.1
 T 64500 42000 5 10 1 1 270 0 1
 refdes=C318
 T 64200 41600 5 10 1 1 270 0 1
-footprint=0402
+footprint=0603
 T 64500 41500 5 10 1 1 270 0 1
-value=100n
+value=220n
 }
 C 64500 42400 1 180 0 gnd-1.sym
 C 63500 40600 1 0 0 inductor-1.sym
@@ -329,7 +329,7 @@ device=RESISTOR
 T 60600 38800 5 10 1 1 0 0 1
 refdes=R324
 T 60000 38800 5 10 1 1 0 0 1
-value=100
+value=120
 T 60100 39100 5 10 1 1 0 0 1
 footprint=0402
 }
@@ -521,7 +521,7 @@ symversion=0.1
 T 51600 48700 5 10 1 1 270 0 1
 refdes=C324
 T 51300 48300 5 10 1 1 270 0 1
-footprint=0603
+footprint=0402
 T 51600 48200 5 10 1 1 270 0 1
 value=10n
 }
@@ -659,7 +659,7 @@ refdes=LED301
 T 63900 48400 5 10 1 1 90 0 1
 footprint=0603
 T 64600 48600 5 10 1 1 90 0 1
-value=green
+value=blue
 }
 N 64200 49000 64200 49300 4
 C 64100 47800 1 0 0 gnd-1.sym
@@ -695,7 +695,7 @@ C 70700 47600 1 0 0 connector14-2.sym
 T 71400 53700 5 10 1 1 0 6 1
 refdes=CONN303
 T 71000 53650 5 10 0 0 0 0 1
-device=CONNECTOR_14
+device=LCD-ILI9341-2.4in
 T 71000 53850 5 10 0 0 0 0 1
 footprint=connector14
 }
@@ -770,7 +770,7 @@ device=RESISTOR
 T 70000 49400 5 10 1 1 180 0 1
 refdes=R341
 T 70600 49400 5 10 1 1 180 0 1
-value=10K
+value=10k
 T 70500 49100 5 10 1 1 180 0 1
 footprint=0402
 }
@@ -797,7 +797,7 @@ device=RESISTOR
 T 69100 51000 5 10 1 1 180 0 1
 refdes=R339
 T 69700 51000 5 10 1 1 180 0 1
-value=47
+value=68
 T 69600 50700 5 10 1 1 180 0 1
 footprint=0603
 }
@@ -809,7 +809,7 @@ device=RESISTOR
 T 69100 50500 5 10 1 1 180 0 1
 refdes=R340
 T 69700 50500 5 10 1 1 180 0 1
-value=47
+value=68
 T 69600 50200 5 10 1 1 180 0 1
 footprint=0603
 }
@@ -874,7 +874,7 @@ refdes=C408
 T 40100 27600 5 10 1 1 180 0 1
 footprint=0402
 T 40800 27600 5 10 1 1 180 0 1
-value=30p
+value=330p
 }
 C 40600 28200 1 180 0 capacitor-1.sym
 {
@@ -887,7 +887,7 @@ refdes=C407
 T 40100 28200 5 10 1 1 180 0 1
 footprint=0402
 T 40800 28200 5 10 1 1 180 0 1
-value=100n
+value=220n
 }
 C 40900 27300 1 90 0 gnd-1.sym
 C 40900 27300 1 90 0 gnd-1.sym
@@ -903,7 +903,7 @@ refdes=C401
 T 38100 28900 5 10 1 1 0 0 1
 footprint=0402
 T 37400 28900 5 10 1 1 0 0 1
-value=100n
+value=220n
 }
 C 37600 28300 1 0 0 capacitor-1.sym
 {
@@ -916,7 +916,7 @@ refdes=C402
 T 38500 28400 5 10 1 1 180 0 1
 footprint=0402
 T 37400 28300 5 10 1 1 0 0 1
-value=30p
+value=330p
 }
 C 37300 29200 1 270 0 gnd-1.sym
 C 37300 28600 1 270 0 gnd-1.sym
@@ -931,7 +931,7 @@ refdes=C403
 T 37800 27600 5 10 1 1 0 0 1
 footprint=0402
 T 37100 27600 5 10 1 1 0 0 1
-value=100n
+value=220n
 }
 C 37300 27000 1 0 0 capacitor-1.sym
 {
@@ -944,7 +944,7 @@ refdes=C405
 T 37800 27000 5 10 1 1 0 0 1
 footprint=0402
 T 37100 27000 5 10 1 1 0 0 1
-value=30p
+value=330p
 }
 C 37000 27900 1 270 0 gnd-1.sym
 C 37000 27900 1 270 0 gnd-1.sym
@@ -1004,7 +1004,7 @@ refdes=C412
 T 43000 26500 5 10 1 1 180 0 1
 footprint=0402
 T 43700 26500 5 10 1 1 180 0 1
-value=100n
+value=220n
 }
 C 43800 26200 1 90 0 gnd-1.sym
 C 43500 22800 1 180 0 capacitor-1.sym
@@ -1018,7 +1018,7 @@ refdes=C414
 T 43000 22800 5 10 1 1 180 0 1
 footprint=0402
 T 43700 22800 5 10 1 1 180 0 1
-value=100n
+value=220n
 }
 C 43800 22500 1 90 0 gnd-1.sym
 N 42600 22100 42600 23000 4
@@ -1075,7 +1075,7 @@ refdes=C406
 T 35300 23800 5 10 1 1 0 0 1
 footprint=0402
 T 34600 23800 5 10 1 1 0 0 1
-value=100n
+value=220n
 }
 N 35700 24000 36900 24000 4
 N 42600 22600 42100 22600 4
@@ -1150,7 +1150,7 @@ refdes=C417
 T 43000 22300 5 10 1 1 180 0 1
 footprint=0402
 T 43700 22300 5 10 1 1 180 0 1
-value=100n
+value=220n
 }
 C 43800 22000 1 90 0 gnd-1.sym
 C 40500 20300 1 90 0 capacitor-1.sym
@@ -1231,7 +1231,7 @@ refdes=R405
 T 40200 19800 5 10 1 1 180 0 1
 footprint=0402
 T 39900 19500 5 10 1 1 180 0 1
-value=150
+value=120
 }
 N 41700 20500 41000 20500 4
 N 41000 20500 41000 19600 4
@@ -1282,7 +1282,7 @@ refdes=C501
 T 58800 24700 5 10 1 1 90 0 1
 footprint=0402
 T 59100 24700 5 10 1 1 90 0 1
-value=100n
+value=220n
 }
 N 58900 24100 58900 23700 4
 N 58900 25300 58900 25000 4
@@ -1416,7 +1416,7 @@ refdes=R502
 T 60300 20800 5 10 1 1 270 0 1
 footprint=0402
 T 60600 20500 5 10 1 1 270 0 1
-value=100
+value=120
 }
 C 59200 20100 1 0 0 resistor-1.sym
 {
@@ -1468,7 +1468,7 @@ footprint=shield_15.6_14.6
 T 57050 32450 5 10 1 1 180 6 1
 refdes=G302
 }
-B 35700 52800 5800 7100 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+B 36100 52900 4900 7000 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 T 35000 60300 8 50 1 0 0 0 1
 Directional Coupler
 C 39200 58500 1 270 1 resistor-1.sym
@@ -1541,7 +1541,7 @@ refdes=R557
 T 40100 58600 5 10 1 1 0 2 1
 value=50
 T 39600 58600 5 10 1 1 0 2 1
-footprint=0603
+footprint=0402
 }
 C 40600 58500 1 90 1 gnd-1.sym
 C 39300 57200 1 180 1 resistor-1.sym
@@ -1977,7 +1977,7 @@ refdes=C608
 T 57800 73800 5 10 1 1 180 0 1
 footprint=0402
 T 58500 73800 5 10 1 1 180 0 1
-value=30p
+value=330p
 }
 C 58300 74400 1 180 0 capacitor-1.sym
 {
@@ -1990,7 +1990,7 @@ refdes=C607
 T 57800 74400 5 10 1 1 180 0 1
 footprint=0402
 T 58500 74400 5 10 1 1 180 0 1
-value=100n
+value=220n
 }
 C 58600 73500 1 90 0 gnd-1.sym
 C 58600 73500 1 90 0 gnd-1.sym
@@ -2006,7 +2006,7 @@ refdes=C601
 T 55800 75100 5 10 1 1 0 0 1
 footprint=0402
 T 55100 75100 5 10 1 1 0 0 1
-value=100n
+value=220n
 }
 C 55300 74500 1 0 0 capacitor-1.sym
 {
@@ -2019,7 +2019,7 @@ refdes=C602
 T 56200 74600 5 10 1 1 180 0 1
 footprint=0402
 T 55100 74500 5 10 1 1 0 0 1
-value=30p
+value=330p
 }
 C 55000 75400 1 270 0 gnd-1.sym
 C 55000 74800 1 270 0 gnd-1.sym
@@ -2034,7 +2034,7 @@ refdes=C603
 T 55500 73800 5 10 1 1 0 0 1
 footprint=0402
 T 54800 73800 5 10 1 1 0 0 1
-value=100n
+value=220n
 }
 C 55000 73200 1 0 0 capacitor-1.sym
 {
@@ -2047,7 +2047,7 @@ refdes=C605
 T 55500 73200 5 10 1 1 0 0 1
 footprint=0402
 T 54800 73200 5 10 1 1 0 0 1
-value=30p
+value=330p
 }
 C 54700 74100 1 270 0 gnd-1.sym
 C 54700 74100 1 270 0 gnd-1.sym
@@ -2107,7 +2107,7 @@ refdes=C612
 T 60700 72700 5 10 1 1 180 0 1
 footprint=0402
 T 61400 72700 5 10 1 1 180 0 1
-value=100n
+value=220n
 }
 C 61500 72400 1 90 0 gnd-1.sym
 C 61200 69000 1 180 0 capacitor-1.sym
@@ -2121,7 +2121,7 @@ refdes=C614
 T 60700 69000 5 10 1 1 180 0 1
 footprint=0402
 T 61400 69000 5 10 1 1 180 0 1
-value=100n
+value=220n
 }
 C 61500 68700 1 90 0 gnd-1.sym
 N 60300 68300 60300 69200 4
@@ -2178,7 +2178,7 @@ refdes=C606
 T 53000 70000 5 10 1 1 0 0 1
 footprint=0402
 T 52300 70000 5 10 1 1 0 0 1
-value=100n
+value=220n
 }
 N 53400 70200 54600 70200 4
 N 60300 68800 59800 68800 4
@@ -2245,7 +2245,7 @@ refdes=C617
 T 60700 68500 5 10 1 1 180 0 1
 footprint=0402
 T 61400 68500 5 10 1 1 180 0 1
-value=100n
+value=220n
 }
 C 61500 68200 1 90 0 gnd-1.sym
 C 58200 66500 1 90 0 capacitor-1.sym
@@ -2326,7 +2326,7 @@ refdes=R605
 T 57900 66000 5 10 1 1 180 0 1
 footprint=0402
 T 57600 65700 5 10 1 1 180 0 1
-value=150
+value=120
 }
 N 59400 66700 58700 66700 4
 N 58700 66700 58700 65800 4
@@ -2437,7 +2437,7 @@ device=RESISTOR
 T 69700 41700 5 10 1 1 0 0 1
 refdes=R304
 T 69100 41700 5 10 1 1 0 0 1
-value=470
+value=220
 T 69300 42000 5 10 1 1 0 0 1
 footprint=0402
 }
@@ -2451,7 +2451,7 @@ device=RESISTOR
 T 69600 42200 5 10 1 1 0 0 1
 refdes=R303
 T 69000 42200 5 10 1 1 0 0 1
-value=82
+value=50
 T 69200 42500 5 10 1 1 0 0 1
 footprint=0402
 }
@@ -2465,7 +2465,7 @@ device=RESISTOR
 T 67800 38800 5 10 1 1 270 0 1
 refdes=R305
 T 67800 39400 5 10 1 1 270 0 1
-value=220
+value=120
 T 68100 39200 5 10 1 1 270 0 1
 footprint=0402
 }
@@ -2756,7 +2756,7 @@ C 89300 51000 1 0 0 connector2-2.sym
 T 90000 52300 5 10 1 1 0 6 1
 refdes=CONN3
 T 89600 52250 5 10 0 0 0 0 1
-device=CONNECTOR1_2
+device=xh2.54-angled
 T 89600 52450 5 10 0 0 0 0 1
 footprint=CONNECTOR 1 2
 }
@@ -2782,7 +2782,7 @@ footprint=1008
 T 80000 42100 5 10 1 1 0 0 1
 refdes=L111
 T 80000 41800 5 10 1 1 0 0 1
-value=4.7uh
+value=2.2u
 }
 N 79800 42700 79800 42000 4
 C 81400 41100 1 90 0 capacitor-1.sym
@@ -2954,7 +2954,7 @@ device=RESISTOR
 T 50400 50300 5 10 1 1 0 0 1
 refdes=R7
 T 49800 50300 5 10 1 1 0 0 1
-value=100
+value=120
 T 49900 50700 5 10 1 1 0 0 1
 footprint=0402
 }
@@ -2965,7 +2965,7 @@ device=RESISTOR
 T 32200 23800 5 10 1 1 0 0 1
 refdes=R8
 T 31600 23800 5 10 1 1 0 0 1
-value=100
+value=120
 T 31700 24100 5 10 1 1 0 0 1
 footprint=0402
 }
@@ -2977,7 +2977,7 @@ device=RESISTOR
 T 63500 49700 5 10 1 1 90 0 1
 refdes=R306
 T 63500 49100 5 10 1 1 90 0 1
-value=1k
+value=1.5k
 T 63200 49200 5 10 1 1 90 0 1
 footprint=0402
 }
@@ -3005,7 +3005,7 @@ N 57900 47300 57900 49400 4
 C 56000 56000 1 0 0 switch-spst-1.sym
 {
 T 56400 56700 5 10 0 0 0 0 1
-device=SPST
+device=dipswitch-2
 T 56300 56300 5 10 1 1 0 0 1
 refdes=S301
 T 56000 56000 5 10 0 0 0 0 1
@@ -3232,9 +3232,9 @@ device=RESISTOR
 T 60100 23800 5 10 1 1 0 0 1
 refdes=R503
 T 60400 23500 5 10 1 1 0 0 1
-footprint=0402
+footprint=0603
 T 60700 23800 5 10 1 1 0 0 1
-value=4.7
+value=2.2
 }
 N 60100 23700 59200 23700 4
 C 31800 59500 1 270 0 mxd8641.sym
@@ -3351,7 +3351,7 @@ device=RESISTOR
 T 30300 39800 5 10 1 1 270 0 1
 refdes=R10
 T 30300 40400 5 10 1 1 270 0 1
-value=82
+value=75
 T 30600 40300 5 10 1 1 270 0 1
 footprint=0402
 }
@@ -3362,7 +3362,7 @@ device=RESISTOR
 T 31600 39800 5 10 1 1 270 0 1
 refdes=R11
 T 31600 40400 5 10 1 1 270 0 1
-value=82
+value=75
 T 31900 40300 5 10 1 1 270 0 1
 footprint=0402
 }
@@ -3373,7 +3373,7 @@ device=RESISTOR
 T 31400 40800 5 10 1 1 0 0 1
 refdes=R9
 T 30800 40800 5 10 1 1 0 0 1
-value=100
+value=120
 T 30900 41100 5 10 1 1 0 0 1
 footprint=0402
 }
@@ -3666,9 +3666,9 @@ device=RESISTOR
 T 62800 40900 5 10 1 1 180 0 1
 refdes=R311
 T 63300 40900 5 10 1 1 180 0 1
-value=22
+value=10
 T 63200 40600 5 10 1 1 180 0 1
-footprint=0402
+footprint=0603
 }
 C 87400 44600 1 270 0 capacitor-1.sym
 {
@@ -3695,7 +3695,7 @@ device=RESISTOR
 T 60600 39300 5 10 1 1 0 0 1
 refdes=R312
 T 60000 39300 5 10 1 1 0 0 1
-value=100
+value=120
 T 60100 39600 5 10 1 1 0 0 1
 footprint=0402
 }
@@ -3722,7 +3722,7 @@ refdes=R505
 T 58200 20100 5 10 1 1 180 0 1
 footprint=0402
 T 57900 19800 5 10 1 1 180 0 1
-value=100
+value=120
 }
 C 58800 20000 1 90 1 gnd-1.sym
 C 87900 51300 1 0 0 resistor-1.sym
@@ -3737,3 +3737,14 @@ T 88100 51500 5 10 1 1 0 0 1
 footprint=1206
 }
 N 88800 51400 89300 51400 4
+T 41200 53600 9 10 1 0 0 0 4
+IN to OUT transmission: -10dB
+IN to REFL (OUT shorted): -30dB
+IN to REFL (OUT open): -30dB
+Coupling factor: -20dB
+T 35500 58100 9 30 1 0 0 0 1
+OUT
+T 40700 59400 9 30 1 0 0 0 1
+IN
+T 37100 52600 9 30 1 0 0 0 1
+REFL
