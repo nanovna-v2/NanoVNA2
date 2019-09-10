@@ -9,7 +9,7 @@ Grid[0.1000mm 0.0000 0.0000 1]
 PolyArea[3100.006200]
 Thermal[0.500000]
 DRC[0.1990mm 0.1990mm 0.1400mm 0.2000mm 0.3000mm 0.1900mm]
-Flags("showdrc,nameonpcb,alldirection,clearnew")
+Flags("showdrc,nameonpcb,alldirection,clearnew,showmask")
 Groups("1,c:2:3:4:5:6,s:7:8")
 Styles["Signal,0.2800mm,0.7000mm,0.3000mm,0.2500mm:Power,0.4000mm,2.1000mm,1.5000mm,0.2500mm:Fat,1.2000mm,5.5000mm,3.0000mm,0.2500mm:Skinny,0.2000mm,0.5000mm,0.2000mm,0.2500mm"]
 Symbol[' ' 18.00mil]
@@ -5160,12 +5160,20 @@ Layer(9 "bottom silk" "silk")
 	Text[86.3000mm 26.0000mm 0 108 "B+" "clearline,onsolder"]
 	Text[96.4000mm 22.5000mm 0 108 "B-" "clearline,onsolder"]
 	Text[81.6000mm 61.3000mm 1 124 "DFU" "clearline,onsolder"]
+	Text[87.7000mm 57.6000mm 0 126 "+" "clearline,onsolder"]
+	Text[94.0000mm 59.2000mm 0 126 "+" "clearline,onsolder"]
+	Text[58.0000mm 52.0000mm 0 126 "+" "clearline,onsolder"]
+	Text[78.4000mm 33.0000mm 0 126 "+" "clearline,onsolder"]
 )
 Layer(10 "top silk" "silk")
 (
 	Line[82.1000mm 20.3000mm 82.1000mm 19.4000mm 0.2800mm 0.5000mm "clearline"]
 	Line[82.1000mm 19.4000mm 84.5000mm 19.4000mm 0.2800mm 0.5000mm "clearline"]
 	Line[84.5000mm 19.4000mm 84.5000mm 20.3000mm 0.2800mm 0.5000mm "clearline"]
+	Line[50.5000mm 46.9000mm 50.1000mm 47.3000mm 0.2800mm 0.5000mm "clearline"]
+	Line[50.5000mm 46.9000mm 50.5000mm 46.4000mm 0.2800mm 0.5000mm "clearline"]
+	Line[50.5000mm 46.9000mm 51.0000mm 46.9000mm 0.2800mm 0.5000mm "clearline"]
+	Line[73.4000mm 41.8000mm 73.0000mm 41.4000mm 0.2800mm 0.5000mm "clearline"]
 	Arc[21.8000mm 30.8000mm 1.3000mm 1.3000mm 0.2800mm 0.5000mm -90.000000 -90.000000 "clearline"]
 	Arc[21.8000mm 30.8000mm 1.3000mm 1.3000mm 0.2800mm 0.5000mm 180.000000 -90.000000 "clearline"]
 	Arc[21.8000mm 30.8000mm 1.3000mm 1.3000mm 0.2800mm 0.5000mm 270.000000 90.000000 "clearline"]
@@ -5182,6 +5190,10 @@ Layer(10 "top silk" "silk")
 	Text[106.1000mm 45.6000mm 0 72 "NRST" "clearline"]
 	Text[105.3000mm 62.2000mm 0 72 "SWCLK" "clearline"]
 	Text[105.4000mm 63.3000mm 0 72 "SWDIO" "clearline"]
+	Text[107.9000mm 21.0000mm 0 126 "+" "clearline"]
+	Text[107.9000mm 26.0000mm 0 126 "+" "clearline"]
+	Text[107.9000mm 27.9000mm 0 126 "+" "clearline"]
+	Text[107.9000mm 32.8000mm 0 126 "+" "clearline"]
 )
 NetList()
 (
