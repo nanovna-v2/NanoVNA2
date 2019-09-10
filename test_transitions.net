@@ -1,0 +1,6 @@
+unnamed_net5	CONN7-1 CONN5-1 
+unnamed_net4	CONN6-1 CONN4-1 
+unnamed_net3	R3-1 CONN3-1 
+unnamed_net2	R2-1 CONN2-1 
+unnamed_net1	R1-1 CONN1-1 
+GND	CONN7-0 CONN6-0 CONN5-0 CONN4-0 R3-2 CONN3-0 R2-2 CONN2-0 R1-2 CONN1-0 
