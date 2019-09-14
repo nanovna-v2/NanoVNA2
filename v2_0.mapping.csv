@@ -4,29 +4,24 @@ RESISTOR	*	*	(value+'Ω 1%', device, footprint, '')	-1
 INDUCTOR	*	*	(value+'H', device, footprint, '')	-1
 *	*	*	(device,device,footprint,value)	-1
 BGS14GA14	*	*	'BGS14GA14E6327XTSA1'	
-INDUCTOR	0603_0805	fb	('fb', device, '0805', '')	
-INDUCTOR	0603	fb	('fb', device, '0603', '')	
-INDUCTOR	0805_s	fb	('fb', device, '0805', '')	
-INDUCTOR	0603	rffb	'FBMH1608HM601-T'	
+INDUCTOR	0603_0805	fb	('GZ2012D601TF', device, '0805', '')	
+INDUCTOR	0603_0805_2	fb	('GZ2012D601TF', device, '0805', '')	
+INDUCTOR	0805_s	fb	('GZ2012D601TF', device, '0805', '')	
+INDUCTOR	0805	fb	('GZ2012D601TF', device, '0805', '')	
+INDUCTOR	0603	fb	('FBMH1608HM601-T', device, footprint, '')	
+INDUCTOR	0603	rffb	('FBMH1608HM601-T', device, footprint, '')	
 INDUCTOR	0805	15n	'CE201210-15NJ'	
 INDUCTOR	0805	2.2u	'CV201210-2R2K'	
 INDUCTOR	0805	4.7u	'CV201210-4R7K'	
-RESISTOR	0402	1.8	'1R'	
-RESISTOR	0402	1.8k	'2kR'	
-RESISTOR	*	50	'49.9R'	
-RESISTOR	0402	82	'75R'	
-RESISTOR	0603	1.8	'2.2R'	
-RESISTOR	0603	36	'33R'	
-RESISTOR	0603	39	'47R'	
-CAPACITOR	0603	300p	('330pF',device,footprint,'')	
+RESISTOR	*	50	('49.9R 1%', device, footprint, '')	
 CAPACITOR	0603_0805	*	(value+'F', device, '0805', '')	
 CAPACITOR	0402_l	*	(value+'F', device, '0402', '')	
 CAPACITOR	0402_m	*	(value+'F', device, '0402', '')	
 CAPACITOR	0402_2	*	(value+'F', device, '0402', '')	
 CAPACITOR	0805_s	*	(value+'F', device, '0805', '')	
-LED	0603	blue	'blue'	
-LED	0603	green	'green'	
-LED	0603	red	'red'	
+LED	0603	blue	('blue', device, footprint, '')	
+LED	0603	green	('green', device, footprint, '')	
+LED	0603	red	('red', device, footprint, '')	
 LP0603A0947	lp0603	*	'LP0603A0947ANTR'	
 LP0603A2140	lp0603	*	'LP0603A2140ANTR'	
 LT1819	SO8	*	'LT1819CS8#PBF'	
@@ -49,7 +44,7 @@ xc6206	*	*	('XC6206P332MR',device,'SOT-23-3L','')
 xc6206-3.0	*	*	('XC6206P302MR',device,'SOT-23-3L','')	
 NPN_TRANSISTOR	*	2sc3356	('2SC3356-T1B-A',device,'SOT-23','')	
 INDUCTOR	mcw-0630	10uH	('06030 (0630) 10uH 20% 4A', 'INDUCTOR', '06030', '10u')	
-CONNECTOR_5	custom_microusb1	*	('10118193-0001LF', 'CONNECTOR', 'micro usb', '')	
+CONNECTOR_5	custom_microusb2	*	('szlcsc/C10418', 'CONNECTOR', 'micro usb', '')	
 *	custom_sma4	*	('CON-SMA-EDGE-S', 'CONNECTOR', 'SMA','')	
 CONNECTOR	*	*	'DNI'	
 CONNECTOR_11	*	*	'DNI'	
