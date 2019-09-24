@@ -1,0 +1,772 @@
+R341 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C314 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R502 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C418 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C410 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C406 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C409 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R403 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+LED401 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+C416 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C413 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+R402 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C405 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C402 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C408 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C401 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C407 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C412 (0402) is /persist/pcb/packages2/0402.fp rotated by 45.0
+C403 (0402) is /persist/pcb/packages2/0402.fp rotated by 325.0
+C404 (0402) is /persist/pcb/packages2/0402.fp rotated by 105.0
+C417 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R406 (0402) is /persist/pcb/packages2/0402.fp rotated by 240.0
+L404 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+L403 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+C414 (0402) is /persist/pcb/packages2/0402.fp rotated by 140.0
+R405 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C415 (0402) is /persist/pcb/packages2/0402.fp rotated by 185.0
+C411 (0402) is /persist/pcb/packages2/0402.fp rotated by 335.0
+R404 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R401 (0402) is /persist/pcb/packages2/0402.fp rotated by 165.0
+G301 (shield_15.6_14.6) is /persist/pcb/packages2/shield_15.6_14.6.fp rotated by 360.0
+C306 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+C311 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R314 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C309 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C310 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R315 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C308 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R319 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+R317 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+U302 (QFN16_3_EP) is /persist/pcb/packages2/QFN16_3_EP.fp rotated by 90.0
+R321 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+L301 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+L300 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+C301 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+C312 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+C316 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+U309 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 90.0
+C302 (0402) is /persist/pcb/packages2/0402.fp rotated by 25.0
+U301 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 360.0
+CONN1 (custom_sma4) is /persist/pcb/packages2/custom_sma4.fp rotated by 270.0
+T552 (cx2156nl) is /persist/pcb/packages2/cx2156nl.fp rotated by 90.0
+G302 (shield_15.6_14.6) is /persist/pcb/packages2/shield_15.6_14.6.fp rotated by 180.0
+C303 (0805) is /persist/pcb/packages2/0805.fp rotated by 180.0
+C313 (0603) is /persist/pcb/packages2/0603.fp rotated by 300.0
+R301 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C304 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C305 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R302 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C5 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+U2 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 90.0
+C4 (0402) is /persist/pcb/packages2/0402.fp rotated by 55.0
+C504 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+U501 (tcxo3225) is /persist/pcb/packages2/tcxo3225.fp rotated by 90.0
+C503 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+component U502 (MSOP10) does not have pin 1
+retrying with 1
+retrying with 10
+retrying with 2
+retrying with 3
+retrying with 4
+retrying with 5
+retrying with 6
+retrying with 7
+retrying with 8
+retrying with 9
+U502 (MSOP10) is /persist/vna/pcb/packages/MSOP10.fp rotated by 90.0
+C501 (0402) is /persist/pcb/packages2/0402.fp rotated by 225.0
+R501 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C505 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+R3 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R4 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+U3 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 90.0
+R5 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C7 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R6 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C610 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C606 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C609 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R603 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C616 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C613 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+R602 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C605 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C602 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C608 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C601 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C607 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C612 (0402) is /persist/pcb/packages2/0402.fp rotated by 225.0
+C603 (0402) is /persist/pcb/packages2/0402.fp rotated by 145.0
+C604 (0402) is /persist/pcb/packages2/0402.fp rotated by 285.0
+C617 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R606 (0402) is /persist/pcb/packages2/0402.fp rotated by 60.0
+L604 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+L603 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+C614 (0402) is /persist/pcb/packages2/0402.fp rotated by 320.0
+R605 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C615 (0402) is /persist/pcb/packages2/0402.fp rotated by 5.0
+C611 (0402) is /persist/pcb/packages2/0402.fp rotated by 155.0
+R604 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C618 (0402) is /persist/pcb/packages2/0402.fp rotated by 55.0
+component U601 (custom_qfn32) does not have pin 1
+retrying with 1
+retrying with 10
+retrying with 11
+retrying with 12
+retrying with 13
+retrying with 14
+retrying with 15
+retrying with 16
+retrying with 17
+retrying with 18
+retrying with 19
+retrying with 2
+retrying with 20
+retrying with 21
+retrying with 22
+retrying with 23
+retrying with 24
+retrying with 25
+retrying with 26
+retrying with 27
+retrying with 28
+retrying with 29
+retrying with 3
+retrying with 30
+retrying with 31
+retrying with 32
+retrying with 33
+component  () pin 1 too close to center
+retrying with 4
+retrying with 5
+retrying with 6
+retrying with 7
+retrying with 8
+retrying with 9
+component U601 (custom_qfn32) does not have pin 1
+retrying with 1
+retrying with 10
+retrying with 11
+retrying with 12
+retrying with 13
+retrying with 14
+retrying with 15
+retrying with 16
+retrying with 17
+retrying with 18
+retrying with 19
+retrying with 2
+retrying with 20
+retrying with 21
+retrying with 22
+retrying with 23
+retrying with 24
+retrying with 25
+retrying with 26
+retrying with 27
+retrying with 28
+retrying with 29
+retrying with 3
+retrying with 30
+retrying with 31
+retrying with 32
+retrying with 33
+component  () pin 1 too close to center
+retrying with 4
+retrying with 5
+retrying with 6
+retrying with 7
+retrying with 8
+retrying with 9
+U601 (custom_qfn32) is /persist/vna/pcb/packages/custom_qfn32.fp rotated by 180.0
+component U401 (custom_qfn32) does not have pin 1
+retrying with 1
+retrying with 10
+retrying with 11
+retrying with 12
+retrying with 13
+retrying with 14
+retrying with 15
+retrying with 16
+retrying with 17
+retrying with 18
+retrying with 19
+retrying with 2
+retrying with 20
+retrying with 21
+retrying with 22
+retrying with 23
+retrying with 24
+retrying with 25
+retrying with 26
+retrying with 27
+retrying with 28
+retrying with 29
+retrying with 3
+retrying with 30
+retrying with 31
+retrying with 32
+retrying with 33
+component  () pin 1 too close to center
+retrying with 4
+retrying with 5
+retrying with 6
+retrying with 7
+retrying with 8
+retrying with 9
+component U401 (custom_qfn32) does not have pin 1
+retrying with 1
+retrying with 10
+retrying with 11
+retrying with 12
+retrying with 13
+retrying with 14
+retrying with 15
+retrying with 16
+retrying with 17
+retrying with 18
+retrying with 19
+retrying with 2
+retrying with 20
+retrying with 21
+retrying with 22
+retrying with 23
+retrying with 24
+retrying with 25
+retrying with 26
+retrying with 27
+retrying with 28
+retrying with 29
+retrying with 3
+retrying with 30
+retrying with 31
+retrying with 32
+retrying with 33
+component  () pin 1 too close to center
+retrying with 4
+retrying with 5
+retrying with 6
+retrying with 7
+retrying with 8
+retrying with 9
+U401 (custom_qfn32) is /persist/vna/pcb/packages/custom_qfn32.fp rotated by 360.0
+CONN303 (connector14) has no pads
+CONN2 (connector4) has no pads
+R338 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C337 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R331 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+U303 (LQFP48_7) is /persist/pcb/packages2/LQFP48_7.fp rotated by 270.0
+C326 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+LED301 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+C329 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C327 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C328 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R329 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R330 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C320 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C325 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+R325 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R324 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R328 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+U304 (SO8) is /persist/pcb/packages2/SO8.fp rotated by 180.0
+C317 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+C321 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+R305 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R303 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R304 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C322 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+U305 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 360.0
+C710 (0805) is /persist/pcb/packages2/0805.fp rotated by 270.0
+C619 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+C112 (0805) is /persist/pcb/packages2/0805.fp rotated by 180.0
+L111 (1008) is /persist/pcb/packages2/1008.fp rotated by 90.0
+U111 (SOT26) is /persist/pcb/packages2/SOT26.fp rotated by 180.0
+C111 (0805) is /persist/pcb/packages2/0805.fp rotated by 180.0
+R601 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+LED302 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+S301 (dip2) has no pads
+U4 (SOT23) is /persist/pcb/packages2/SOT23.fp rotated by 360.0
+C502 (0805) is /persist/pcb/packages2/0805.fp rotated by 90.0
+R560 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C552 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C551 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+U551 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 270.0
+C1 (0603) is /persist/pcb/packages2/0603.fp rotated by 245.0
+C553 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R562 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R563 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R2 (0402) is /persist/pcb/packages2/0402.fp rotated by 315.0
+R1 (0402) is /persist/pcb/packages2/0402.fp rotated by 315.0
+C622 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C621 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R609 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R608 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R607 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R340 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+R339 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+LED601 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+LED702 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+LED701 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+LED704 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+LED703 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+C620 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+component S2 (SK-12D02-VG3) does not have pin 1
+retrying with 0
+S2 (SK-12D02-VG3) is /persist/pcb/packages2/SK-12D02-VG3.fp rotated by 180.0
+S2 does not have a pin 1; using center xy as pad xy
+R701 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+C704 (0805) is /persist/pcb/packages2/0805.fp rotated by 270.0
+C702 (0805) is /persist/pcb/packages2/0805.fp rotated by 270.0
+C708 (0805) is /persist/pcb/packages2/0805.fp rotated by 360.0
+U701 (SO8_EP) is /persist/pcb/packages2/SO8_EP.fp rotated by 90.0
+C707 (0805) is /persist/pcb/packages2/0805.fp rotated by 360.0
+C703 (0805) is /persist/pcb/packages2/0805.fp rotated by 270.0
+C701 (0805) is /persist/pcb/packages2/0805.fp rotated by 270.0
+L702 (1008) is /persist/pcb/packages2/1008.fp rotated by 360.0
+CONN3 (CONNECTOR-1-2) has no pads
+C706 (0805) is /persist/pcb/packages2/0805.fp rotated by 350.0
+C705 (0805) is /persist/pcb/packages2/0805.fp rotated by 85.0
+C709 (0805) is /persist/pcb/packages2/0805.fp rotated by 120.0
+U306 (K1-1502SA-01) is /persist/pcb/packages2/K1-1502SA-01.fp rotated by 180.0
+CONN4 (custom_sma4) is /persist/pcb/packages2/custom_sma4.fp rotated by 90.0
+R10 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R11 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C8 (0603) is /persist/pcb/packages2/0603.fp rotated by 125.0
+R9 (0402) is /persist/pcb/packages2/0402.fp rotated by 335.0
+CONN5 (connector5) has no pads
+C307 (0603) is /persist/pcb/packages2/0603.fp rotated by 225.0
+C9 (0805) is /persist/pcb/packages2/0805.fp rotated by 360.0
+R312 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R322 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C315 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+R505 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R504 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C6 (0402) is /persist/pcb/packages2/0402.fp rotated by 245.0
+R702 (1206) is /persist/pcb/packages2/1206.fp rotated by 180.0
+R111 (0402) is /persist/pcb/packages2/0402.fp rotated by 225.0
+R112 (0402) is /persist/pcb/packages2/0402.fp rotated by 145.0
+R7 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R8 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R307 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R310 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R309 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R308 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C323 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R306 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R335 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C324 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R503 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+R311 (0603) is /persist/pcb/packages2/0603.fp rotated by 100.0
+L302 (0805) is /persist/pcb/packages2/0805.fp rotated by 295.0
+R323 (0402) is /persist/pcb/packages2/0402.fp rotated by 300.0
+C318 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+U1 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 360.0
+C3 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C2 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R12 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+G502 (shield_15.6_14.6) is /persist/pcb/packages2/shield_15.6_14.6.fp rotated by 360.0
+T551 (cx2156nl) is /persist/pcb/packages2/cx2156nl.fp rotated by 270.0
+G501 (shield_15.6_14.6) is /persist/pcb/packages2/shield_15.6_14.6.fp rotated by 180.0
+R557 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R552 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+R556 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+R551 (0603) is /persist/pcb/packages2/0603.fp rotated by 130.0
+R554 (0603) is /persist/pcb/packages2/0603.fp rotated by 230.0
+R558 (0402) is /persist/pcb/packages2/0402.fp rotated by 305.0
+R553 (0402) is /persist/pcb/packages2/0402.fp rotated by 55.0
+R559 (0402) is /persist/pcb/packages2/0402.fp rotated by 255.0
+R555 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+CONN300 (custom_microusb2) is /persist/pcb/packages2/custom_microusb2.fp rotated by 360.0
+L401 (0603_0805_2) is /persist/pcb/packages2/0603_0805_2.fp rotated by 180.0
+L303 (0603_0805_2) is /persist/pcb/packages2/0603_0805_2.fp rotated by 225.0
+L601 (0603_0805_2) is /persist/pcb/packages2/0603_0805_2.fp rotated by 360.0
+L602 (0603_0805_2) is /persist/pcb/packages2/0603_0805_2.fp rotated by 270.0
+L703 (0603_0805_2) is /persist/pcb/packages2/0603_0805_2.fp rotated by 240.0
+L701 (0603_0805_2) is /persist/pcb/packages2/0603_0805_2.fp rotated by 240.0
+R341 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C314 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R502 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C418 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C410 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C406 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C409 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R403 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+LED401 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+C416 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C413 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+R402 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C405 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C402 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C408 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C401 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C407 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C412 (0402) is /persist/pcb/packages2/0402.fp rotated by 45.0
+C403 (0402) is /persist/pcb/packages2/0402.fp rotated by 325.0
+C404 (0402) is /persist/pcb/packages2/0402.fp rotated by 105.0
+C417 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R406 (0402) is /persist/pcb/packages2/0402.fp rotated by 240.0
+L404 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+L403 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+C414 (0402) is /persist/pcb/packages2/0402.fp rotated by 140.0
+R405 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C415 (0402) is /persist/pcb/packages2/0402.fp rotated by 185.0
+C411 (0402) is /persist/pcb/packages2/0402.fp rotated by 335.0
+R404 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R401 (0402) is /persist/pcb/packages2/0402.fp rotated by 165.0
+G301 (shield_15.6_14.6) is /persist/pcb/packages2/shield_15.6_14.6.fp rotated by 360.0
+C306 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+C311 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R314 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C309 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C310 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R315 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C308 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R319 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+R317 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+U302 (QFN16_3_EP) is /persist/pcb/packages2/QFN16_3_EP.fp rotated by 90.0
+R321 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+L301 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+L300 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+C301 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+C312 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+C316 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+U309 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 90.0
+C302 (0402) is /persist/pcb/packages2/0402.fp rotated by 25.0
+U301 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 360.0
+CONN1 (custom_sma4) is /persist/pcb/packages2/custom_sma4.fp rotated by 270.0
+T552 (cx2156nl) is /persist/pcb/packages2/cx2156nl.fp rotated by 90.0
+G302 (shield_15.6_14.6) is /persist/pcb/packages2/shield_15.6_14.6.fp rotated by 180.0
+C303 (0805) is /persist/pcb/packages2/0805.fp rotated by 180.0
+C313 (0603) is /persist/pcb/packages2/0603.fp rotated by 300.0
+R301 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C304 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C305 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R302 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C5 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+U2 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 90.0
+C4 (0402) is /persist/pcb/packages2/0402.fp rotated by 55.0
+C504 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+U501 (tcxo3225) is /persist/pcb/packages2/tcxo3225.fp rotated by 90.0
+C503 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+component U502 (MSOP10) does not have pin 1
+retrying with 1
+retrying with 10
+retrying with 2
+retrying with 3
+retrying with 4
+retrying with 5
+retrying with 6
+retrying with 7
+retrying with 8
+retrying with 9
+U502 (MSOP10) is /persist/vna/pcb/packages/MSOP10.fp rotated by 90.0
+C501 (0402) is /persist/pcb/packages2/0402.fp rotated by 225.0
+R501 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C505 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+R3 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R4 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+U3 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 90.0
+R5 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C7 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R6 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C610 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C606 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C609 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R603 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C616 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C613 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+R602 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C605 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C602 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C608 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C601 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C607 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C612 (0402) is /persist/pcb/packages2/0402.fp rotated by 225.0
+C603 (0402) is /persist/pcb/packages2/0402.fp rotated by 145.0
+C604 (0402) is /persist/pcb/packages2/0402.fp rotated by 285.0
+C617 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R606 (0402) is /persist/pcb/packages2/0402.fp rotated by 60.0
+L604 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+L603 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+C614 (0402) is /persist/pcb/packages2/0402.fp rotated by 320.0
+R605 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C615 (0402) is /persist/pcb/packages2/0402.fp rotated by 5.0
+C611 (0402) is /persist/pcb/packages2/0402.fp rotated by 155.0
+R604 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C618 (0402) is /persist/pcb/packages2/0402.fp rotated by 55.0
+component U601 (custom_qfn32) does not have pin 1
+retrying with 1
+retrying with 10
+retrying with 11
+retrying with 12
+retrying with 13
+retrying with 14
+retrying with 15
+retrying with 16
+retrying with 17
+retrying with 18
+retrying with 19
+retrying with 2
+retrying with 20
+retrying with 21
+retrying with 22
+retrying with 23
+retrying with 24
+retrying with 25
+retrying with 26
+retrying with 27
+retrying with 28
+retrying with 29
+retrying with 3
+retrying with 30
+retrying with 31
+retrying with 32
+retrying with 33
+component  () pin 1 too close to center
+retrying with 4
+retrying with 5
+retrying with 6
+retrying with 7
+retrying with 8
+retrying with 9
+component U601 (custom_qfn32) does not have pin 1
+retrying with 1
+retrying with 10
+retrying with 11
+retrying with 12
+retrying with 13
+retrying with 14
+retrying with 15
+retrying with 16
+retrying with 17
+retrying with 18
+retrying with 19
+retrying with 2
+retrying with 20
+retrying with 21
+retrying with 22
+retrying with 23
+retrying with 24
+retrying with 25
+retrying with 26
+retrying with 27
+retrying with 28
+retrying with 29
+retrying with 3
+retrying with 30
+retrying with 31
+retrying with 32
+retrying with 33
+component  () pin 1 too close to center
+retrying with 4
+retrying with 5
+retrying with 6
+retrying with 7
+retrying with 8
+retrying with 9
+U601 (custom_qfn32) is /persist/vna/pcb/packages/custom_qfn32.fp rotated by 180.0
+component U401 (custom_qfn32) does not have pin 1
+retrying with 1
+retrying with 10
+retrying with 11
+retrying with 12
+retrying with 13
+retrying with 14
+retrying with 15
+retrying with 16
+retrying with 17
+retrying with 18
+retrying with 19
+retrying with 2
+retrying with 20
+retrying with 21
+retrying with 22
+retrying with 23
+retrying with 24
+retrying with 25
+retrying with 26
+retrying with 27
+retrying with 28
+retrying with 29
+retrying with 3
+retrying with 30
+retrying with 31
+retrying with 32
+retrying with 33
+component  () pin 1 too close to center
+retrying with 4
+retrying with 5
+retrying with 6
+retrying with 7
+retrying with 8
+retrying with 9
+component U401 (custom_qfn32) does not have pin 1
+retrying with 1
+retrying with 10
+retrying with 11
+retrying with 12
+retrying with 13
+retrying with 14
+retrying with 15
+retrying with 16
+retrying with 17
+retrying with 18
+retrying with 19
+retrying with 2
+retrying with 20
+retrying with 21
+retrying with 22
+retrying with 23
+retrying with 24
+retrying with 25
+retrying with 26
+retrying with 27
+retrying with 28
+retrying with 29
+retrying with 3
+retrying with 30
+retrying with 31
+retrying with 32
+retrying with 33
+component  () pin 1 too close to center
+retrying with 4
+retrying with 5
+retrying with 6
+retrying with 7
+retrying with 8
+retrying with 9
+U401 (custom_qfn32) is /persist/vna/pcb/packages/custom_qfn32.fp rotated by 360.0
+CONN303 (connector14) has no pads
+CONN2 (connector4) has no pads
+R338 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C337 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R331 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+U303 (LQFP48_7) is /persist/pcb/packages2/LQFP48_7.fp rotated by 270.0
+C326 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+LED301 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+C329 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C327 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C328 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R329 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R330 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C320 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C325 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+R325 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R324 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R328 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+U304 (SO8) is /persist/pcb/packages2/SO8.fp rotated by 180.0
+C317 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+C321 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+R305 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R303 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R304 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C322 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+U305 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 360.0
+C710 (0805) is /persist/pcb/packages2/0805.fp rotated by 270.0
+C619 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+C112 (0805) is /persist/pcb/packages2/0805.fp rotated by 180.0
+L111 (1008) is /persist/pcb/packages2/1008.fp rotated by 90.0
+U111 (SOT26) is /persist/pcb/packages2/SOT26.fp rotated by 180.0
+C111 (0805) is /persist/pcb/packages2/0805.fp rotated by 180.0
+R601 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+LED302 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+S301 (dip2) has no pads
+U4 (SOT23) is /persist/pcb/packages2/SOT23.fp rotated by 360.0
+C502 (0805) is /persist/pcb/packages2/0805.fp rotated by 90.0
+R560 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C552 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+C551 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+U551 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 270.0
+C1 (0603) is /persist/pcb/packages2/0603.fp rotated by 245.0
+C553 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R562 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R563 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R2 (0402) is /persist/pcb/packages2/0402.fp rotated by 315.0
+R1 (0402) is /persist/pcb/packages2/0402.fp rotated by 315.0
+C622 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C621 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R609 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R608 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R607 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R340 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+R339 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+LED601 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+LED702 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+LED701 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+LED704 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+LED703 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+C620 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+component S2 (SK-12D02-VG3) does not have pin 1
+retrying with 0
+S2 (SK-12D02-VG3) is /persist/pcb/packages2/SK-12D02-VG3.fp rotated by 180.0
+S2 does not have a pin 1; using center xy as pad xy
+R701 (0603) is /persist/pcb/packages2/0603.fp rotated by 180.0
+C704 (0805) is /persist/pcb/packages2/0805.fp rotated by 270.0
+C702 (0805) is /persist/pcb/packages2/0805.fp rotated by 270.0
+C708 (0805) is /persist/pcb/packages2/0805.fp rotated by 360.0
+U701 (SO8_EP) is /persist/pcb/packages2/SO8_EP.fp rotated by 90.0
+C707 (0805) is /persist/pcb/packages2/0805.fp rotated by 360.0
+C703 (0805) is /persist/pcb/packages2/0805.fp rotated by 270.0
+C701 (0805) is /persist/pcb/packages2/0805.fp rotated by 270.0
+L702 (1008) is /persist/pcb/packages2/1008.fp rotated by 360.0
+CONN3 (CONNECTOR-1-2) has no pads
+C706 (0805) is /persist/pcb/packages2/0805.fp rotated by 350.0
+C705 (0805) is /persist/pcb/packages2/0805.fp rotated by 85.0
+C709 (0805) is /persist/pcb/packages2/0805.fp rotated by 120.0
+U306 (K1-1502SA-01) is /persist/pcb/packages2/K1-1502SA-01.fp rotated by 180.0
+CONN4 (custom_sma4) is /persist/pcb/packages2/custom_sma4.fp rotated by 90.0
+R10 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R11 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C8 (0603) is /persist/pcb/packages2/0603.fp rotated by 125.0
+R9 (0402) is /persist/pcb/packages2/0402.fp rotated by 335.0
+CONN5 (connector5) has no pads
+C307 (0603) is /persist/pcb/packages2/0603.fp rotated by 225.0
+C9 (0805) is /persist/pcb/packages2/0805.fp rotated by 360.0
+R312 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R322 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C315 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+R505 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R504 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C6 (0402) is /persist/pcb/packages2/0402.fp rotated by 245.0
+R702 (1206) is /persist/pcb/packages2/1206.fp rotated by 180.0
+R111 (0402) is /persist/pcb/packages2/0402.fp rotated by 225.0
+R112 (0402) is /persist/pcb/packages2/0402.fp rotated by 145.0
+R7 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R8 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R307 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R310 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R309 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R308 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+C323 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+R306 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R335 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+C324 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+R503 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+R311 (0603) is /persist/pcb/packages2/0603.fp rotated by 100.0
+L302 (0805) is /persist/pcb/packages2/0805.fp rotated by 295.0
+R323 (0402) is /persist/pcb/packages2/0402.fp rotated by 300.0
+C318 (0603) is /persist/pcb/packages2/0603.fp rotated by 360.0
+U1 (mxd8641) is /persist/pcb/packages2/mxd8641.fp rotated by 360.0
+C3 (0402) is /persist/pcb/packages2/0402.fp rotated by 270.0
+C2 (0402) is /persist/pcb/packages2/0402.fp rotated by 360.0
+R12 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+G502 (shield_15.6_14.6) is /persist/pcb/packages2/shield_15.6_14.6.fp rotated by 360.0
+T551 (cx2156nl) is /persist/pcb/packages2/cx2156nl.fp rotated by 270.0
+G501 (shield_15.6_14.6) is /persist/pcb/packages2/shield_15.6_14.6.fp rotated by 180.0
+R557 (0402) is /persist/pcb/packages2/0402.fp rotated by 180.0
+R552 (0603) is /persist/pcb/packages2/0603.fp rotated by 270.0
+R556 (0603) is /persist/pcb/packages2/0603.fp rotated by 90.0
+R551 (0603) is /persist/pcb/packages2/0603.fp rotated by 130.0
+R554 (0603) is /persist/pcb/packages2/0603.fp rotated by 230.0
+R558 (0402) is /persist/pcb/packages2/0402.fp rotated by 305.0
+R553 (0402) is /persist/pcb/packages2/0402.fp rotated by 55.0
+R559 (0402) is /persist/pcb/packages2/0402.fp rotated by 255.0
+R555 (0402) is /persist/pcb/packages2/0402.fp rotated by 90.0
+CONN300 (custom_microusb2) is /persist/pcb/packages2/custom_microusb2.fp rotated by 360.0
+L401 (0603_0805_2) is /persist/pcb/packages2/0603_0805_2.fp rotated by 180.0
+L303 (0603_0805_2) is /persist/pcb/packages2/0603_0805_2.fp rotated by 225.0
+L601 (0603_0805_2) is /persist/pcb/packages2/0603_0805_2.fp rotated by 360.0
+L602 (0603_0805_2) is /persist/pcb/packages2/0603_0805_2.fp rotated by 270.0
+L703 (0603_0805_2) is /persist/pcb/packages2/0603_0805_2.fp rotated by 240.0
+L701 (0603_0805_2) is /persist/pcb/packages2/0603_0805_2.fp rotated by 240.0
