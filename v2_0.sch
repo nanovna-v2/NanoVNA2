@@ -2882,7 +2882,7 @@ device=RESISTOR
 T 50400 50300 5 10 1 1 0 0 1
 refdes=R7
 T 49800 50300 5 10 1 1 0 0 1
-value=120
+value=220
 T 49900 50700 5 10 1 1 0 0 1
 footprint=0402
 }
@@ -2893,7 +2893,7 @@ device=RESISTOR
 T 32200 23800 5 10 1 1 0 0 1
 refdes=R8
 T 31600 23800 5 10 1 1 0 0 1
-value=120
+value=75
 T 31700 24100 5 10 1 1 0 0 1
 footprint=0402
 }
