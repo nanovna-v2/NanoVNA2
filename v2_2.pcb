@@ -1244,7 +1244,6 @@ Via[93.8000mm 51.9000mm 0.7000mm 0.9000mm 0.0000 0.3000mm "" ""]
 Via[94.2000mm 53.4000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
 Via[94.2000mm 51.0000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
 Via[73.4000mm 46.3000mm 0.7000mm 0.5000mm 0.0000 0.3000mm "" ""]
-Via[44.6000mm 46.2000mm 1.0000mm 0.0000 0.0000 0.5000mm "" ""]
 Via[41.2000mm 57.5000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
 Via[83.9000mm 61.6000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
 Via[83.9000mm 60.5000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
@@ -1298,7 +1297,7 @@ Via[70.1000mm 58.1000mm 1.0000mm 0.0000 0.0000 0.5000mm "" ""]
 Via[68.5000mm 58.1000mm 1.0000mm 0.0000 0.0000 0.5000mm "" ""]
 Via[68.6000mm 56.1000mm 1.0000mm 0.0000 0.0000 0.5000mm "" ""]
 Via[85.7000mm 51.8000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
-Via[42.6000mm 47.1000mm 1.0000mm 0.0000 0.0000 0.5000mm "" ""]
+Via[42.3000mm 47.1000mm 1.0000mm 0.0000 0.0000 0.5000mm "" ""]
 Via[42.1000mm 45.1000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
 Via[42.1000mm 43.9000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
 Via[43.7000mm 45.1000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
@@ -1568,6 +1567,7 @@ Via[50.1000mm 47.9000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
 Via[53.5000mm 59.1000mm 1.4000mm 0.0000 0.0000 0.5000mm "" ""]
 Via[77.0000mm 59.1000mm 1.4000mm 0.0000 0.0000 0.5000mm "" ""]
 Via[95.0000mm 59.1000mm 1.4000mm 0.0000 0.0000 0.5000mm "" ""]
+Via[43.7000mm 46.5000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
 
 Element["onsolder" "0603" "LED601" "blue" 57.8000mm 23.0000mm 2.1000mm 2.2000mm 3 82 "onsolder"]
 (
@@ -2068,13 +2068,13 @@ Element["hidename,onsolder" "0402" "R553" "50" 41.6000mm 43.2000mm 2.2500mm 1.45
 
 	)
 
-Element["onsolder" "cx2156nl" "T551" "unknown" 43.0000mm 46.1000mm -0.7000mm -2.0000mm 1 82 "onsolder"]
+Element["onsolder" "cx2156nl" "T551" "unknown" 42.8000mm 46.1000mm 0.7000mm 0.6000mm 3 82 "onsolder"]
 (
-	Pad[-2.6000mm 1.5000mm -2.0000mm 1.5000mm 1.0000mm 0.6000mm 1.1500mm "1" "1" "onsolder,square"]
-	Pad[-2.6000mm 0.0000 -2.0000mm 0.0000 1.0000mm 0.4480mm 1.1500mm "" "2" "onsolder,square"]
-	Pad[-2.6000mm -1.5000mm -2.0000mm -1.5000mm 1.0000mm 0.6000mm 1.1500mm "3" "3" "onsolder,square"]
-	Pad[1.8000mm 1.5000mm 2.4000mm 1.5000mm 1.0000mm 0.6000mm 1.1500mm "6" "6" "onsolder,square,edge2"]
-	Pad[1.8000mm -1.5000mm 2.4000mm -1.5000mm 1.0000mm 0.6000mm 1.1500mm "4" "4" "onsolder,square,edge2"]
+	Pad[2.0000mm -1.5000mm 2.6000mm -1.5000mm 1.0000mm 0.6000mm 1.1500mm "1" "1" "onsolder,square,edge2"]
+	Pad[2.0000mm 0.0000 2.6000mm 0.0000 1.0000mm 0.4480mm 1.1500mm "" "2" "onsolder,square,edge2"]
+	Pad[2.0000mm 1.5000mm 2.6000mm 1.5000mm 1.0000mm 0.6000mm 1.1500mm "3" "3" "onsolder,square,edge2"]
+	Pad[-2.4000mm -1.5000mm -1.8000mm -1.5000mm 1.0000mm 0.6000mm 1.1500mm "6" "6" "onsolder,square"]
+	Pad[-2.4000mm 1.5000mm -1.8000mm 1.5000mm 1.0000mm 0.6000mm 1.1500mm "4" "4" "onsolder,square"]
 
 	)
 
@@ -7100,27 +7100,27 @@ NetList()
 	)
 	Net("unnamed_net63" "(unknown)")
 	(
-		Connect("R552-1")
-		Connect("R553-1")
+		Connect("R559-2")
 		Connect("T551-3")
+		Connect("T552-4")
 	)
 	Net("unnamed_net64" "(unknown)")
 	(
-		Connect("R556-1")
-		Connect("R558-1")
+		Connect("R555-2")
 		Connect("T551-1")
+		Connect("T552-6")
 	)
 	Net("unnamed_net65" "(unknown)")
 	(
-		Connect("R559-2")
+		Connect("R552-1")
+		Connect("R553-1")
 		Connect("T551-6")
-		Connect("T552-4")
 	)
 	Net("unnamed_net66" "(unknown)")
 	(
-		Connect("R555-2")
+		Connect("R556-1")
+		Connect("R558-1")
 		Connect("T551-4")
-		Connect("T552-6")
 	)
 	Net("unnamed_net67" "(unknown)")
 	(
