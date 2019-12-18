@@ -931,7 +931,7 @@ Via[49.2000mm 40.3000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
 Via[50.2000mm 42.9000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
 Via[49.9000mm 42.1000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
 Via[51.7000mm 41.0000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
-Via[46.6000mm 44.2000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
+Via[46.7000mm 44.2000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
 Via[51.1000mm 44.7000mm 0.7000mm 0.0000 0.0000 0.3000mm "" ""]
 Via[51.1000mm 42.6000mm 0.7000mm 0.4000mm 0.0000 0.3000mm "" ""]
 Via[55.3000mm 38.2000mm 0.7000mm 0.5000mm 0.0000 0.3000mm "" ""]
@@ -2091,13 +2091,6 @@ Element["hidename,onsolder" "0402" "R559" "50" 44.3000mm 49.0000mm 4.8500mm -2.9
 (
 	Pad[-0.5501mm 0.0000 -0.4500mm 0.0000 0.5000mm 0.0000 20.00mil "1" "1" "onsolder,square"]
 	Pad[0.4500mm 0.0000 0.5501mm 0.0000 0.5000mm 0.6080mm 0.5580mm "2" "2" "onsolder,square,edge2"]
-
-	)
-
-Element["hidename,onsolder" "0402" "R555" "50" 44.3000mm 43.2000mm 0.4500mm 6.6500mm 1 100 "onsolder"]
-(
-	Pad[-0.5500mm 0.0000 -0.4500mm 0.0000 0.5000mm 0.0000 20.00mil "1" "1" "onsolder,square"]
-	Pad[0.4500mm 0.0000 0.5500mm 0.0000 0.5000mm 0.6080mm 0.5580mm "2" "2" "onsolder,square,edge2"]
 
 	)
 
@@ -4041,6 +4034,13 @@ Element["hidename,onsolder" "0402" "R557" "50" 38.6000mm 41.8000mm -0.0500mm 0.0
 	Pad[0.4500mm 0.0000 0.5500mm 0.0000 0.5000mm 0.0000 0.5580mm "2" "2" "onsolder,square,edge2"]
 
 	)
+
+Element["hidename,onsolder" "0402" "C554" "0.3p" 44.3000mm 43.2000mm -0.0500mm 0.0500mm 2 100 "onsolder"]
+(
+	Pad[-0.5500mm 0.0000 -0.4500mm 0.0000 0.5000mm 0.0000 0.5580mm "1" "1" "onsolder,square"]
+	Pad[0.4500mm 0.0000 0.5500mm 0.0000 0.5000mm 20.00mil 0.5580mm "2" "2" "onsolder,square,edge2"]
+
+	)
 Layer(1 "top" "copper")
 (
 	Line[84.3500mm 50.0500mm 84.7500mm 50.0500mm 0.5000mm 0.5000mm "clearline"]
@@ -5301,8 +5301,8 @@ Layer(3 "in2" "copper")
 			[39.6000mm 43.8000mm] [39.6000mm 42.8000mm] [36.3000mm 42.8000mm] 
 		)
 		Hole (
-			[44.0000mm 45.4000mm] [44.9000mm 45.4000mm] [46.2000mm 46.1000mm] [46.2000mm 46.5000mm] [48.4000mm 46.5000mm] 
-			[48.4000mm 44.9000mm] [46.7000mm 44.9000mm] [46.2000mm 44.6000mm] [46.2000mm 43.8000mm] [44.0000mm 43.8000mm] 
+			[44.0000mm 45.4000mm] [45.6000mm 45.4000mm] [46.2000mm 45.8000mm] [46.2000mm 46.5000mm] [48.4000mm 46.5000mm] 
+			[48.4000mm 44.9000mm] [47.2000mm 44.9000mm] [46.2000mm 44.3000mm] [46.2000mm 43.8000mm] [44.0000mm 43.8000mm] 
 		)
 		Hole (
 			[88.6000mm 47.0000mm] [88.6000mm 46.4000mm] [86.4000mm 46.4000mm] [86.0000mm 46.8000mm] [86.0000mm 47.4000mm] 
@@ -5324,6 +5324,10 @@ Layer(3 "in2" "copper")
 			[35.0000mm 60.4000mm] [36.0000mm 60.4000mm] [36.2000mm 60.2000mm] [36.2000mm 59.2000mm] [36.1000mm 59.1000mm] 
 			[36.1000mm 58.0000mm] [35.9000mm 57.8000mm] [35.0000mm 57.8000mm] [34.8000mm 58.0000mm] [34.8000mm 60.2000mm] 
 		)
+	)
+	Polygon("clearpoly")
+	(
+		[43.8000mm 45.6000mm] [45.1000mm 45.6000mm] [45.1000mm 43.7000mm] [43.8000mm 43.7000mm] 
 	)
 )
 Layer(4 "signal3" "copper")
@@ -5570,7 +5574,7 @@ Layer(6 "bottom" "copper")
 	Line[48.7000mm 49.1000mm 49.4000mm 48.2000mm 0.2000mm 0.5000mm "clearline"]
 	Line[49.4000mm 48.2000mm 49.4000mm 45.3000mm 0.2000mm 0.5000mm "clearline"]
 	Line[50.3000mm 49.7000mm 51.3000mm 48.7000mm 0.2800mm 0.7000mm "clearline"]
-	Line[45.2000mm 44.8000mm 47.0000mm 45.8000mm 0.7000mm 0.6000mm "clearline"]
+	Line[45.3000mm 44.5000mm 47.1000mm 45.5000mm 0.7000mm 0.6000mm "clearline"]
 	Line[45.2000mm 47.6000mm 47.0000mm 48.6000mm 0.7000mm 0.6000mm "clearline"]
 	Line[56.4000mm 38.9000mm 56.4000mm 37.7000mm 0.2800mm 0.7000mm "clearline"]
 	Line[66.4000mm 50.0000mm 65.7000mm 50.5000mm 0.7000mm 0.6000mm "clearline"]
@@ -6396,6 +6400,7 @@ NetList()
 		Connect("C551-1")
 		Connect("C552-2")
 		Connect("C553-2")
+		Connect("C554-1")
 		Connect("C601-1")
 		Connect("C602-1")
 		Connect("C603-1")
@@ -6492,7 +6497,6 @@ NetList()
 		Connect("R501-1")
 		Connect("R505-1")
 		Connect("R553-2")
-		Connect("R555-1")
 		Connect("R557-2")
 		Connect("R558-2")
 		Connect("R559-1")
@@ -7087,7 +7091,7 @@ NetList()
 	)
 	Net("unnamed_net64" "(unknown)")
 	(
-		Connect("R555-2")
+		Connect("C554-2")
 		Connect("T551-1")
 		Connect("T552-6")
 	)
