@@ -1,3 +1,14 @@
 *.bak*
 *#
 *~
+
+# generate_fab temp files
+*.bom.csv
+*.bom-*.csv
+*.net
+*.backup
+
+# LTSpice temp files
+*.raw
+*.fft
+*.log
