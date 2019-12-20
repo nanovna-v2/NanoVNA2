@@ -11,7 +11,7 @@ Thermal[0.500000]
 DRC[0.1990mm 0.1990mm 0.1900mm 0.2000mm 0.3000mm 0.1900mm]
 Flags("showdrc,nameonpcb,alldirection,clearnew")
 Groups("1,c:2:3:4:5:6,s:7:8")
-Styles["Signal,0.2800mm,1.1000mm,0.5000mm,0.2500mm:Power,0.7000mm,1.5000mm,0.9000mm,0.2000mm:Fat,0.9000mm,5.5000mm,3.0000mm,0.3000mm:Skinny,0.2000mm,0.5000mm,0.2000mm,0.2500mm"]
+Styles["Signal,0.2800mm,1.1000mm,0.5000mm,0.2500mm:Power,0.7000mm,1.5000mm,0.9000mm,0.2500mm:Fat,0.9000mm,5.5000mm,3.0000mm,0.3000mm:Skinny,0.2000mm,0.5000mm,0.2000mm,0.2500mm"]
 Symbol[' ' 18.00mil]
 (
 )
@@ -5139,9 +5139,9 @@ Layer(2 "in1" "copper")
 	Line[94.2000mm 61.2000mm 95.6000mm 61.2000mm 0.2000mm 0.5000mm "clearline"]
 	Line[95.6000mm 61.2000mm 96.7000mm 60.1000mm 0.2000mm 0.5000mm "clearline"]
 	Line[96.7000mm 56.6000mm 96.7000mm 60.1000mm 0.2000mm 0.5000mm "clearline"]
-	Line[98.2000mm 56.9000mm 98.2000mm 59.9000mm 0.8000mm 0.4000mm "clearline"]
-	Line[98.2000mm 59.9000mm 95.1000mm 63.0000mm 0.8000mm 0.4000mm "clearline"]
-	Line[95.1000mm 63.0000mm 95.1000mm 64.2000mm 0.8000mm 0.4000mm "clearline"]
+	Line[98.2000mm 56.9000mm 98.2000mm 59.9000mm 0.8000mm 0.5000mm "clearline"]
+	Line[98.2000mm 59.9000mm 95.1000mm 63.0000mm 0.8000mm 0.5000mm "clearline"]
+	Line[95.1000mm 63.0000mm 95.1000mm 64.2000mm 0.8000mm 0.5000mm "clearline"]
 	Line[79.7000mm 62.0000mm 78.7000mm 63.0000mm 0.2000mm 0.5000mm "clearline"]
 	Line[78.7000mm 63.0000mm 77.2000mm 63.0000mm 0.2000mm 0.5000mm "clearline"]
 	Line[77.2000mm 63.0000mm 75.1000mm 60.9000mm 0.2000mm 0.5000mm "clearline"]
@@ -5372,13 +5372,13 @@ Layer(2 "in1" "copper")
 	Line[54.9000mm 56.4000mm 54.9000mm 57.3000mm 0.2000mm 0.5000mm "clearline"]
 	Line[54.9000mm 57.3000mm 55.6000mm 58.0000mm 0.2000mm 0.5000mm "clearline"]
 	Line[55.6000mm 56.4000mm 55.6000mm 57.0000mm 0.2000mm 0.5000mm "clearline"]
-	Line[45.5000mm 65.5000mm 51.8000mm 65.5000mm 0.7000mm 0.4000mm "clearline"]
-	Line[51.8000mm 65.5000mm 52.8000mm 64.5000mm 0.7000mm 0.4000mm "clearline"]
-	Line[52.8000mm 64.5000mm 52.8000mm 62.6000mm 0.7000mm 0.4000mm "clearline"]
-	Line[52.8000mm 62.6000mm 53.6000mm 61.8000mm 0.7000mm 0.4000mm "clearline"]
-	Line[53.6000mm 61.8000mm 73.0000mm 61.8000mm 0.7000mm 0.4000mm "clearline"]
-	Line[73.0000mm 61.8000mm 74.2000mm 63.0000mm 0.7000mm 0.4000mm "clearline"]
-	Line[74.2000mm 63.0000mm 74.2000mm 65.1000mm 0.7000mm 0.4000mm "clearline"]
+	Line[45.5000mm 65.5000mm 51.8000mm 65.5000mm 0.7000mm 0.5000mm "clearline"]
+	Line[51.8000mm 65.5000mm 52.8000mm 64.5000mm 0.7000mm 0.5000mm "clearline"]
+	Line[52.8000mm 64.5000mm 52.8000mm 62.6000mm 0.7000mm 0.5000mm "clearline"]
+	Line[52.8000mm 62.6000mm 53.6000mm 61.8000mm 0.7000mm 0.5000mm "clearline"]
+	Line[53.6000mm 61.8000mm 73.0000mm 61.8000mm 0.7000mm 0.5000mm "clearline"]
+	Line[73.0000mm 61.8000mm 74.2000mm 63.0000mm 0.7000mm 0.5000mm "clearline"]
+	Line[74.2000mm 63.0000mm 74.2000mm 65.1000mm 0.7000mm 0.5000mm "clearline"]
 	Text[100.3000mm 61.2000mm 1 72 "DESIGNED BY OWOCOMM" "clearline"]
 	Polygon("clearpoly")
 	(
