@@ -1,4 +1,5 @@
-# NanoVNA V2 (S-A-A-2) schematics and PCB layout
+# NanoVNA V2 (S-A-A-2)
+This repository contains the NanoVNA V2 schematics and PCB layout designs.
 
 ## V2_2 (V2.2) design files
 - [v2_2.sch](v2_2.sch) (gEDA gschem schematic)
