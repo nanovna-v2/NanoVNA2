@@ -5,4 +5,5 @@
 - [v2_2.pcb](v2_2.pcb) (gEDA PCB)
 - [Schematic (png)](v2_2.png)
 - [Schematic (pdf)](v2_2.pdf)
+- Permission is granted to use the design commercially and non-commercially without royalties. However, note that it is in your interest and everyone's interest to abide by basic business ethics.
 
