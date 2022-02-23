@@ -1,7 +1,7 @@
 # NanoVNA V2 (S-A-A-2)
 This repository contains the NanoVNA V2 schematics and PCB layout designs.
 
-Copyright (C) OwOTech 2020, all rights reserved.
+Copyright (C) OwOTech 2020 <edelswartz123@gmail.com>, all rights reserved.
 
 The design is licensed under CC-BY-NC-SA (see LICENSE file).
 
